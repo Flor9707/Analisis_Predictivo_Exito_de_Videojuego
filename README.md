@@ -18,7 +18,7 @@ Python | Matplotlib | Pandas | Scikit-learn | Jupyter Notebook
 - Orientación de la oferta según preferencias de usuario y plataforma.
 
 ## 📂 Proyecto
-[Revisar Notebook](analisis-de-tienda-videojuegos/proyecto-integrado.ipynb)
+Proyecto_6.ipynb
 
 ## 👤 Autor
 Flor María Borja Luna
